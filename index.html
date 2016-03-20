@@ -1,0 +1,34 @@
+---
+layout: default
+title: Michael Lipp
+---
+
+
+<div class="home">
+
+  <ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <div class="post-date"><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></div>
+      
+      {% if post.excerpt != '' %}
+      <h1>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h1>
+      
+      {{ post.excerpt }}
+      
+      {% else %}
+      <h1>
+        {{ post.title }}
+      </h1>
+
+      {{ post.content }}
+
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+
+</div>
+  
