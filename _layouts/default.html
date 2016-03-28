@@ -32,10 +32,19 @@
       </footer>
     </div>
     
-    <link rel="stylesheet" href="/stylesheets/styles.css">
-    <link rel="stylesheet" href="/stylesheets/github-light.css">
-    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
-    <link rel="stylesheet" href="/stylesheets/site.css">
+    <script type="text/javascript">
+      {% include loadCSS.js %}
+      loadCSS('/stylesheets/styles.css');
+      loadCSS('/stylesheets/github-light.css');
+      loadCSS('/stylesheets/pygment_trac.css');
+      loadCSS('/stylesheets/site.css');
+    </script>
+    <noscript>
+      <link rel="stylesheet" href="/stylesheets/styles.css">
+      <link rel="stylesheet" href="/stylesheets/github-light.css">
+      <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
+      <link rel="stylesheet" href="/stylesheets/site.css">
+      </noscript>
     <script src="javascripts/scale.fix.js"></script>
     
     {% include piwik.html %}
