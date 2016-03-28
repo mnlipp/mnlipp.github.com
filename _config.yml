@@ -8,3 +8,5 @@ kramdown:
 description:
   Information regarding Michael N. Lipp's GitHub projects 
 
+sass:
+    style: compressed  
