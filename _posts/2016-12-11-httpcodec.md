@@ -1,6 +1,6 @@
 ---
 layout: post
-title: org.jdrupes.httpcodec
+title: JDrupes HTTP Codec
 excerpt: ''
 ---
 
