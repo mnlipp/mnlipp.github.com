@@ -195,6 +195,23 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.post-date {
+	float: right;
+}
+
+.post-list {
+	list-style: none;
+}
+
+.part-list-title {
+	margin-bottom:5px;
+}
+
+.part-entry {
+    margin-bottom:5px;
+}
+
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
