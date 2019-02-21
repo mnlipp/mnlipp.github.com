@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OSGI Bundles/Components
+title: OSGi Bundles/Components
 excerpt: ''
 ---
 
