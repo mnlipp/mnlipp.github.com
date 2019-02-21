@@ -9,4 +9,4 @@ of some (hopefully useful) OSGi bundles/components. I've recently added
 the [ServiceCollector](/de.mnl.osgi/de.mnl.osgi.coreutils/javadoc/index.html?de/mnl/osgi/coreutils/package-summary.html), an (often) easier
 to use alternative to the OSGi's 
 [Service Tracker](https://osgi.org/specification/osgi.core/7.0.0/util.tracker.html)
-and some [bundles for bridging to/from OSGi logging](/de.mnl.osgi#logging-bridgesfacades).
+and some [bundles for bridging to/from OSGi logging](https://github.com/mnlipp/de.mnl.osgi#logging-bridgesfacades).
