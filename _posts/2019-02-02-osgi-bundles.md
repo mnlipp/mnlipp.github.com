@@ -5,7 +5,7 @@ excerpt: ''
 description: Overview of the de.mnl.osgi OSGi bundles and components
 ---
 
-[This project](https://github.com/mnlipp/de.mnl.osgi#demnlosgi) is a collection
+[This project](https://mnlipp.github.io/de.mnl.osgi/) provides a collection
 of some (hopefully useful) OSGi bundles/components. I've recently added
 the [ServiceCollector](https://mnlipp.github.io/de.mnl.osgi/de.mnl.osgi.coreutils/javadoc/index.html?de/mnl/osgi/coreutils/package-summary.html), an (often) easier
 to use alternative to the OSGi's 
@@ -16,3 +16,4 @@ and some [bundles for bridging to/from OSGi logging](https://github.com/mnlipp/d
  * [Log4j facade for OSGi logging](https://mnlipp.github.io/de.mnl.osgi/de.mnl.osgi.log4j2osgi/javadoc/de/mnl/osgi/log4j2osgi/package-summary.html#package.description)
  * [JUL to OSGi logging bridge](https://mnlipp.github.io/de.mnl.osgi/de.mnl.osgi.jul2osgi/javadoc/de/mnl/osgi/jul2osgi/package-summary.html#package.description)
  * [OSGi logging to JUL bridge](https://mnlipp.github.io/de.mnl.osgi/de.mnl.osgi.osgi2jul/javadoc/de/mnl/osgi/osgi2jul/package-summary.html#package.description)
+ 
