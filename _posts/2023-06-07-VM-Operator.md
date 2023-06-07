@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VM-Operator: Run Qemu in Kubernetes
+title: Run Qemu in Kubernetes (VM-Operator)
 excerpt: ''
 ---
 
