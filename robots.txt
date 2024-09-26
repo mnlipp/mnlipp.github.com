@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /jgrapes/
 Disallow: /jdrupes.org/
+Disallow: /VM-Operator/
