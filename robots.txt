@@ -1,4 +1,2 @@
 User-agent: *
 Disallow: /jgrapes/
-
-Sitemap: https://mnlipp.github.io/sitemap.xml
