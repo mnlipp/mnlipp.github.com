@@ -2,3 +2,6 @@ User-agent: *
 Disallow: /jgrapes/
 Disallow: /jdrupes.org/
 Disallow: /VM-Operator/
+
+Sitemap: https://mnlipp.github.io/sitemap.xml
+Sitemap: https://mnlipp.github.io/osgi-getting-started/sitemap.xml
